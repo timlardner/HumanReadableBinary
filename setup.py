@@ -10,7 +10,7 @@ def read(fname):
 
 setup(
     name = "HumanReadableBinaryConverter",
-    version = "0.1.1.0.1.0.0",
+    version = "0.1.1.0.1.0.1",
     author = "Tim Lardner",
     author_email = "timlardner@gmail.com",
     description = ("A utility to convert unfriendly binary code into something that's readable by humans."),
