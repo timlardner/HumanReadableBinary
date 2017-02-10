@@ -18,7 +18,7 @@ setup(
     keywords = "binary human readable",
     url = "https://github.com/timlardner/HumanReadablePython",
     #packages=['an_example_pypi_project', 'tests'],
-    long_description=read('README.MD'),
+    long_description=read('README.md'),
     classifiers=[
         "Development Status :: 4 - Beta",
         "Topic :: Utilities",
